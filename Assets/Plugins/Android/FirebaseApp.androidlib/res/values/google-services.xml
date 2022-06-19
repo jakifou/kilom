@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">47735091535</string>
+  <string name="google_storage_bucket" translatable="false">pepav3-e2622.appspot.com</string>
+  <string name="project_id" translatable="false">pepav3-e2622</string>
+  <string name="google_api_key" translatable="false">AIzaSyAPmbw9oi0zN3bw7K_Wwo-wQALtuA96kyA</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAPmbw9oi0zN3bw7K_Wwo-wQALtuA96kyA</string>
+  <string name="google_app_id" translatable="false">1:47735091535:android:6e0910bba19e9d30fd953a</string>
+  <string name="default_web_client_id" translatable="false">47735091535-c680f426cg5rg0c5gn6cbuc5jr0ju0ju.apps.googleusercontent.com</string>
+</resources>

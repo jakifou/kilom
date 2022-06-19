@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4e883d28a70c403eb88b8fd11b424e84
+labels:
+- al_max
+- al_max_export_path-MaxSdk/Scripts/MaxSdkUnityEditor.cs
+- al_max_export_path-MaxSdk\Scripts\MaxSdkUnityEditor.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

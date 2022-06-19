@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 16cd262c61d944e4872667485bc2c63b
+labels:
+- al_max
+- al_max_export_path-MaxSdk/Scripts/MaxSdkLogger.cs
+- al_max_export_path-MaxSdk\Scripts\MaxSdkLogger.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

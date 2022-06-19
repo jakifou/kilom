@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47735091535",
+    "project_id": "pepav3-e2622",
+    "storage_bucket": "pepav3-e2622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47735091535:android:6e0910bba19e9d30fd953a",
+        "android_client_info": {
+          "package_name": "Com.Peppacoloringpig.Mypigpepp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47735091535-c680f426cg5rg0c5gn6cbuc5jr0ju0ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmbw9oi0zN3bw7K_Wwo-wQALtuA96kyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47735091535-c680f426cg5rg0c5gn6cbuc5jr0ju0ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

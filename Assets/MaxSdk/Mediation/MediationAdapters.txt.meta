@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: a8c4133d38254201a1793ba93405d1d6
+labels:
+- al_max
+- al_max_export_path-MaxSdk/Mediation/MediationAdapters.txt
+- al_max_export_path-MaxSdk\Mediation\MediationAdapters.txt
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

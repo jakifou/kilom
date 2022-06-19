@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3f373c64b61a42e5820b5d5150f5a20e
+labels:
+- al_max
+- al_max_export_path-MaxSdk/Scripts/MaxUserSegment.cs
+- al_max_export_path-MaxSdk\Scripts\MaxUserSegment.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

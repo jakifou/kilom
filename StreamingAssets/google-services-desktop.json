@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264437608770",
+    "project_id": "plimplim-c2f1a",
+    "storage_bucket": "plimplim-c2f1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264437608770:android:693c67c58b5f9e35a718db",
+        "android_client_info": {
+          "package_name": "com.plimplimcolorear.juegosplimplim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264437608770-4uqhagcmthkdmrafaufnmk69nbot30ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOvaKkubeLSOQbQwXIEYVH_pk7pF76QmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264437608770-4uqhagcmthkdmrafaufnmk69nbot30ea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

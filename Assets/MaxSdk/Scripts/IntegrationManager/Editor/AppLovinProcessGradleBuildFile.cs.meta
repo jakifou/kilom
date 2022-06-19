@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5b47c857a3c4ebf8ba21ff3adf9bcaa
+labels:
+- al_max
+- al_max_export_path-MaxSdk/Scripts/IntegrationManager/Editor/AppLovinProcessGradleBuildFile.cs
+- al_max_export_path-MaxSdk\Scripts\IntegrationManager\Editor\AppLovinProcessGradleBuildFile.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

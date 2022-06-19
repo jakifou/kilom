@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127111918396",
+    "project_id": "peppawutzmalenspiele",
+    "storage_bucket": "peppawutzmalenspiele.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127111918396:android:d5c9c8b8e80a4ee6502439",
+        "android_client_info": {
+          "package_name": "com.PeppaPigcoloring.PeppaWutzmalenSpiele"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127111918396-2542nqk7t1b34saloqq7fqkeu1ujjnpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW6t3p9to12BG8ZNeHel0OSHpMYVCMUBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127111918396-2542nqk7t1b34saloqq7fqkeu1ujjnpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

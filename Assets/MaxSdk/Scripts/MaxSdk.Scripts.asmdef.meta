@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: a39abaf7f3c54a87ba66548aa175defb
+labels:
+- al_max
+- al_max_export_path-MaxSdk/Scripts/MaxSdk.Scripts.asmdef
+- al_max_export_path-MaxSdk\Scripts\MaxSdk.Scripts.asmdef
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

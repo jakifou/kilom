@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Game/_Scenes/Splash.unity
+    guid: b4429568e46f431899fd1e54e8b32707
+  - enabled: 1
+    path: Assets/_Game/_Scenes/PaintScene.unity
+    guid: b65da8e6f3154048a59a87753110dcd5
+  - enabled: 1
+    path: Assets/_Game/_Scenes/NotiSc.unity
+    guid: b50311ccb36941da87c82b450171b2b4
+  - enabled: 1
+    path: Assets/_Game/_Scenes/MainScene.unity
+    guid: 176a08f355994359885cd4328069f2fa
+  m_configObjects: {}
