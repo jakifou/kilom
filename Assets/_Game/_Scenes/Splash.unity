@@ -180,7 +180,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 323fea0be71945b18e8383f6fe32b0d5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 562236be3f8d45e49c6afc89c640fc73, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -259,6 +259,36 @@ LightingSettings:
   m_PVRFilteringAtrousPositionSigmaDirect: 0.5
   m_PVRFilteringAtrousPositionSigmaIndirect: 2
   m_PVRFilteringAtrousPositionSigmaAO: 1
+--- !u!1 &1378944686
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1378944687}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1378944687
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1378944686}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -64.00001, y: -180.00002, z: 90}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1519688962
 GameObject:
   m_ObjectHideFlags: 0
@@ -371,7 +401,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1519688962}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c152a8f6f46946b7980d9d99dd460a85, type: 3}
+  m_Script: {fileID: 11500000, guid: 5b8d0aff83c74369a7c3856fae75992a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &1519688968
@@ -387,7 +417,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.98039216, g: 0.4959927, b: 0, a: 1}
+  m_Color: {r: 0.10745542, g: 0, b: 0.9811321, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -514,7 +544,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1610469552}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4558b7fad2cd4a048fc7a0a48eb5031b, type: 3}
+  m_Script: {fileID: 11500000, guid: 78fe2ce1a8cf44688500073687160047, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &2045904240
@@ -543,15 +573,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 2045904240}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f5f23bed1fe4493d937d8fe4547a3cd2, type: 3}
+  m_Script: {fileID: 11500000, guid: db6bf792cd9e473f97de7a9a257579fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  brandiesampson: 
-  cathleenkaiser: {fileID: 0}
-  fannycoleman: 
-  maryannmejia: 
-  kristinwilliams: 
-  nikkitanner: 
+  valeriabauman: 
+  bertiejoyner: {fileID: 0}
+  billiehurley: 
+  deborahgalindo: 
+  jamieknowles: 
+  gloriaaldrich: 
   unityAdsVideoPlacementId: rewardedVideo
 --- !u!4 &2045904242
 Transform:

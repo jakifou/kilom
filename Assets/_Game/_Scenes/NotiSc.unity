@@ -274,7 +274,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 323fea0be71945b18e8383f6fe32b0d5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 562236be3f8d45e49c6afc89c640fc73, type: 3}
   m_Type: 3
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -338,7 +338,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1317343301}
         m_TargetAssemblyTypeName: devongarrett, Assembly-CSharp
-        m_MethodName: luisakim
+        m_MethodName: kaitlyncaldwell
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -357,7 +357,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1317343295}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e8a9583b56bd405eb45c9c0e0878d32d, type: 3}
+  m_Script: {fileID: 11500000, guid: aa96ff357da84b55bf17dc3da61dec2d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1407197258

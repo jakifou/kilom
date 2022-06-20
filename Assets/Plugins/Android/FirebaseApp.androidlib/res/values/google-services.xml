@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
-  <string name="gcm_defaultSenderId" translatable="false">47735091535</string>
-  <string name="google_storage_bucket" translatable="false">pepav3-e2622.appspot.com</string>
-  <string name="project_id" translatable="false">pepav3-e2622</string>
-  <string name="google_api_key" translatable="false">AIzaSyAPmbw9oi0zN3bw7K_Wwo-wQALtuA96kyA</string>
-  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAPmbw9oi0zN3bw7K_Wwo-wQALtuA96kyA</string>
-  <string name="google_app_id" translatable="false">1:47735091535:android:6e0910bba19e9d30fd953a</string>
-  <string name="default_web_client_id" translatable="false">47735091535-c680f426cg5rg0c5gn6cbuc5jr0ju0ju.apps.googleusercontent.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">127111918396</string>
+  <string name="google_storage_bucket" translatable="false">peppawutzmalenspiele.appspot.com</string>
+  <string name="project_id" translatable="false">peppawutzmalenspiele</string>
+  <string name="google_api_key" translatable="false">AIzaSyAW6t3p9to12BG8ZNeHel0OSHpMYVCMUBc</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAW6t3p9to12BG8ZNeHel0OSHpMYVCMUBc</string>
+  <string name="google_app_id" translatable="false">1:127111918396:android:d5c9c8b8e80a4ee6502439</string>
+  <string name="default_web_client_id" translatable="false">127111918396-2542nqk7t1b34saloqq7fqkeu1ujjnpq.apps.googleusercontent.com</string>
 </resources>
