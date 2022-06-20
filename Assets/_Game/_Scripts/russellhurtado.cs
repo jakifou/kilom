@@ -58,7 +58,7 @@ public class russellhurtado : MonoBehaviour, IUnityAdsInitializationListener, IU
     {
 
 
-        UnityEngine.Debug.Log("XReceived CheckAdssds  ");
+        UnityEngine.Debug.Log("XReceived CheckAdssddds  ");
 
         FirebaseDatabase.GetInstance(firebaselink)
       .GetReference("MyMob")
