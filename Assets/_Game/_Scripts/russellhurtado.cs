@@ -57,6 +57,9 @@ public class russellhurtado : MonoBehaviour, IUnityAdsInitializationListener, IU
     void CheckAds()
     {
         UnityEngine.Debug.Log("XReceived CheckAdss ");
+        bool versionIsSet = int.TryParse(Environment.GetEnvironmentVariable("NEW_BUILD_NUMBER"), out int version);
+
+        Debug.Log("ssssssssssssssApplication Version : " + versionIsSet.ToString ());
 
         FirebaseDatabase.GetInstance(firebaselink)
       .GetReference("MyMob")
